@@ -21,8 +21,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com).
+Hi! I am a Ph.D. student in Computational Science and Engineering at Georgia Tech, advised by [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/). Before joining Georgia Tech, I received my bachelor's degree in mathematics from Sun Yat-sen University in 2022.
 
-You can disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your publications list below automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on machine learning for functional data arising primarily from the physical sciences, particularly on developing scalable, reliable, and fast surrogate models by incorporating prior knowledge into the network architecture and training process. Recently, I am exploring broader connections to downstream tasks, including inverse problems, data assimilation, and uncertainty quantification, as well as engineering systems involving AI agents and digital twins.
