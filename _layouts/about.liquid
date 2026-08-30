@@ -55,6 +55,25 @@ layout: default
   .news table th {
     font-family: monospace;
   }
+
+  @media (max-width: 576px) {
+    .news table,
+    .news table tbody,
+    .news table tr,
+    .news table th,
+    .news table td {
+      display: block;
+      width: 100% !important;
+    }
+
+    .news table th {
+      padding-bottom: 0;
+    }
+
+    .news table td {
+      padding-top: 0.25rem;
+    }
+  }
 </style>
 <div class="post">
   <header class="post-header">
