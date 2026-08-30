@@ -21,6 +21,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Ph.D. student in Computational Science and Engineering at Georgia Tech, advised by [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/). Before joining Georgia Tech, I received my bachelor's degree in mathematics from Sun Yat-sen University in 2022.
+Hi! I am a Ph.D. student in Computational Science and Engineering at [Georgia Tech](https://www.gatech.edu/), advised by [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/). Before joining Georgia Tech, I received my bachelor's degree in mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2022.
 
 My research focuses on machine learning for functional data arising primarily from the physical sciences, particularly on developing scalable, reliable, and fast surrogate models by incorporating prior knowledge into the network architecture and training process. Recently, I am exploring broader connections to downstream tasks, including inverse problems, data assimilation, and uncertainty quantification, as well as engineering systems involving AI agents and digital twins.
