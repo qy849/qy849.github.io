@@ -96,7 +96,7 @@
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false -%}
-            {%- if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
+            {%- if forloop.length > 1 %}, {% endif %}
           {%- endif %}
         {% endif %}
         {%- if author_is_self -%}
